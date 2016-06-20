@@ -20,3 +20,6 @@ Hoy sólo puede saberse qué rubro, qué mes y cuántas órdenes de compra tiene
 ## Herramientas a Analizar
 Gasto Público Bahiense: http://gastopublicobahiense.org/  
 Basado en software liberado: https://github.com/jazzido/GPB  
+
+Ya se hicieron algunas visualziaciones con _Tableau_ y se subieron a esta web: http://pablofns.wix.com/portaltransparencia  
+
